@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1730568819 "/Users/kirilHSE/Vs_Code/research_seminar_css_2024_2025/Info_about_course/Syllabus.tex" "/Users/kirilHSE/Vs_Code/research_seminar_css_2024_2025/Info_about_course/Syllabus.pdf" "Syllabus" 1730568820
+["pdflatex"] 1730568819 "/Users/kirilHSE/Vs_Code/research_seminar_css_2024_2025/Info_about_course/Syllabus.tex" "/Users/kirilHSE/Vs_Code/research_seminar_css_2024_2025/Info_about_course/Syllabus.pdf" "Syllabus" 1730569391
   "/Users/kirilHSE/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1729494890 3308 eee81981029f67083258db36df06e523 ""
   "/Users/kirilHSE/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1729494886 3312 d199be9bd555944e2403193d58a0256a ""
   "/Users/kirilHSE/Library/texlive/2021/texmf-var/fonts/tfm/lh/lh-t2a/labx2488.tfm" 1730568815 3304 10c1a71cb294f8a8339c46823bcc15f2 ""
@@ -121,9 +121,9 @@
   "Syllabus.out" 1730568820 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "Syllabus.tex" 1730568810 10507 95b64eedb816470a359cc8086c909de7 ""
   (generated)
-  "Syllabus.log"
-  "Syllabus.pdf"
-  "Syllabus.out"
   "/Users/kirilHSE/Vs_Code/research_seminar_css_2024_2025/Info_about_course/Syllabus.pdf"
   "/Users/kirilHSE/Vs_Code/research_seminar_css_2024_2025/Info_about_course/Syllabus.log"
+  "Syllabus.out"
+  "Syllabus.log"
+  "Syllabus.pdf"
   "Syllabus.aux"
